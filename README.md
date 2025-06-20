@@ -1,66 +1,83 @@
 # UNIBRAS - União Brasileira de Desenvolvimento Social (UNIBRAS)
 
 <p align="center">
-<a href= "https://sejaunibras.com.br"><img src="assets/unibras-logo.png" alt="UNIBRAS - União Brasileira de Desenvolvimento Social" border="0" width=40% height=90%></a>
+  <a href="https://sejaunibras.com.br"><img src="assets/unibras-logo.png" alt="UNIBRAS - União Brasileira de Desenvolvimento Social" border="0" width="70%" height="100%"></a>
 </p>
 
-<br>
+---
 
-# Nome do projeto
+# 📌 Nome do Projeto
+> Breve linha de destaque ou slogan do projeto.
 
-## Nome do grupo
+![status](https://img.shields.io/badge/status-em%20andamento-yellow)
 
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/">Nome do integrante 5</a>
+---
 
-## 👩‍🏫 Professores:
-### Professor(a) 
-- <a href="https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/">FRANCISMAR ALVES MARTINS JUNIOR</a>
-### Coordenador(a)
-- <a href="https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/"></a>
+## 👥 Equipe
 
+### 👨‍🎓 Integrantes
+- [Integrante 1](https://www.linkedin.com/in/.../)
+- [Integrante 2](https://www.linkedin.com/in/.../)
+- [Integrante 3](https://www.linkedin.com/in/.../)
+- [Integrante 4](https://www.linkedin.com/in/.../)
+- [Integrante 5](https://www.linkedin.com/in/.../)
 
-## 📜 Descrição
+### 👩‍🏫 Professores
+- **Professor(a):** [FRANCISMAR ALVES MARTINS JUNIOR](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/)
+- **Coordenador(a):** [Nome do Coordenador(a)](#)
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+---
 
+## 📝 Descrição do Projeto
+> Descreva aqui seu projeto com base no texto do PBL (até 600 palavras).  
+Explique claramente a motivação, objetivo e impacto esperado.
 
-## 📁 Estrutura de pastas
+---
 
-Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
+## 📂 Estrutura de Pastas
+- **assets/** — Arquivos não estruturados (imagens, vídeos, etc.)
+- **document/** — Documentos do projeto (incluindo subpasta `other` para arquivos complementares).
+- **src/** — Código-fonte desenvolvido nas diferentes etapas do projeto.
+- **README.md** — Documento atual, utilizado para guiar e detalhar o entendimento do projeto.
 
-- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
+---
 
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
+## ⚡️ Como Executar o Projeto
+> Descrição dos pré-requisitos e instruções para rodar o projeto localmente.
 
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
+Exemplo:
+1. Instale as dependências:
+    ```bash
+    npm install
+    ```
+2. Rode o projeto:
+    ```bash
+    npm run dev
+    ```
+3. Acesse em `http://localhost:3000`
 
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+### 🛠️ Tecnologias Utilizadas
+- Framework X
+- Linguagem Y
+- Bibliotecas Z
 
-## 🔧 Como executar o código
+---
 
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase.*
+## 📅 Histórico de Lançamentos
+- **v0.5.0** - XX/XX/2024
+  - Descrição das mudanças
+- **v0.4.0** - XX/XX/2024
+  - Descrição das mudanças
+- **v0.3.0** - XX/XX/2024
+  - Descrição das mudanças
+- **v0.2.0** - XX/XX/2024
+  - Descrição das mudanças
+- **v0.1.0** - XX/XX/2024
+  - Descrição das mudanças
 
-
-## 🗃 Histórico de lançamentos
-
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
+---
 
 ## 📋 Licença
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT UNIBRAS</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
-
-
+[MODELO GIT UNIBRAS](https://github.com/yggdrasilGit/templatesUNIBRAS) por [Fiap](https://sejaunibras.com.br) está licenciado sob [CC BY 4.0 International](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).

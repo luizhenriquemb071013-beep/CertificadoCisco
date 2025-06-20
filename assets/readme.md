@@ -6,7 +6,7 @@ Coloque nessa pasta assets, todas as figuras que vão aparecer na sua documenta�
 Use os comandos abaixo para citar as imagens no seu doc.
 
 
-<img src="https://github.com/agodoi/template/blob/main/assets/logo-fiap.png" width="200">
+<img src="" width="200">
 
 coloque o comando entre < >
 o parânetro src indica o path da figura
