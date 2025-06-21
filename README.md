@@ -99,10 +99,19 @@ Ex.: Anomalia, Classificação, Machine Learning, Eficiência Computacional.
 
 ### 🛠️ Estrutura do Repositório
 
-* **assets/** — Imagens e vídeos.
-* **documents/** — Especificações e relatórios (incluindo pasta `other/` para detalhes).
-* **src/** — Código-fonte e implementações.
-* **README.md** — Documento atual para entendimento e replicação.
+```python
+templatesUNIBRAS/
+├─ assets/
+│  └─ (imagens, logotipos e recursos visuais para o README e templates)
+├─ document/
+│  └─ (modelos de documentos em .docx, .pdf ou .md para diferentes usos)
+├─ src/
+│  └─ (código fonte de exemplos, scripts de automação ou templates LaTeX, se existirem)
+├─ .gitattributes
+├─ .gitignore
+├─ LICENSE
+├─ README.md
+```
 
 ### ⚡️ Instruções para Build e Execução
 
