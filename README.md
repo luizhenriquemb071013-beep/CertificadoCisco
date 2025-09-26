@@ -48,7 +48,7 @@ templatesUNIBRAS/
  
 ### 📷 Evidências Visuais
 
-![Certificado](assets/certificado.png)
+![Certificado](assets/certificadoo.png)
 
 ---
 
