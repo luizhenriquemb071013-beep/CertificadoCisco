@@ -48,8 +48,8 @@ templatesUNIBRAS/
  
 ### 📷 Evidências Visuais
 
+<<<<<<< HEAD
 ![Certificado](assets/binario.png)
-
 
 ## 📋 Licença e Atribuições
 
